@@ -2,6 +2,7 @@
 
 **A Systematic Study of Diffusion Distillation for Text-to-Image Synthesis**
 
+[![arXiv](https://img.shields.io/badge/arXiv-2512.13006-b31b1b.svg)](https://arxiv.org/abs/2512.13006v1)
 
 ## Highlights
 
