@@ -11,6 +11,18 @@
 - 🛠️ **Production Ready**: Practical guidelines on input scaling, network architecture, and hyperparameters
 - 📦 **Open Source**: Fully reproducible codebase with pretrained student models
 
+
+## 💻 Released Checkpoints
+
+You can download the models directly from huggingface:
+
+```python
+from huggingface_hub import snapshot_download
+
+model_path = snapshot_download(repo_id="Alibaba-DAMO-Academy/T2I-Distill")
+print(f"Model downloaded to: {model_path}")
+```
+
 ## Project Structure
 
 ```
